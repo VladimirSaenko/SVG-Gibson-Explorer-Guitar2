@@ -157,10 +157,6 @@ form section {
         width: 345px;
     }
 
-    .inputsSection {
-        grid-template-rows: 1fr;
-    }
-
     .portsSection p {
         font-size: 25px;
         margin: 0px 35px;
