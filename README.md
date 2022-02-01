@@ -4,4 +4,4 @@
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/gOGdVPx
 
-![krlqmb9zmpsbonu8eql2](https://user-images.githubusercontent.com/56477695/148764401-d22f97bf-dc66-466a-ad84-8816d184a1d0.jpg)
+![big gibson explorer chryDSCN9826](https://user-images.githubusercontent.com/56477695/151998706-d9d2aa4f-d9e1-41f3-859c-afe94168652c.jpg)
