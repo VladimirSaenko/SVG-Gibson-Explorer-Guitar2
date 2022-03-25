@@ -1,4 +1,4 @@
-# SVG-Gibson-Explorer-Guitar2
+# SVG-Gibson-Explorer
 
 ## Кастомная гитара Gibson Explorer | Custom guitar Gibson Explorer
 
