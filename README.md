@@ -1,9 +1,5 @@
 # SVG Gibson Explorer
 
-## Кастомная гитара Gibson Explorer 
-
-## Custom guitar Gibson Explorer
-
 ## Codepen: https://codepen.io/vladimirsaenko/pen/gOGdVPx
 
 ## Left version: https://vladimirsaenko.github.io/SVG-Gibson-Explorer-LeftyGuitar/
