@@ -63,29 +63,6 @@ form section {
     text-transform: uppercase;
 }
 
-.portsSection {
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.portsSection p {
-    font-family: 'Oswald', sans-serif;
-    font-weight: 200;
-    margin: 0px 50px;
-    color: white;
-    font-size: 30px;
-    transform: rotate(90deg);
-}
-
-.portsSection p:nth-child(1) {
-    transform: rotate(-90deg);
-}
-
 .lastSection {
     display: flex;
     justify-content: center;
